@@ -7,4 +7,4 @@ a página index.html
 
 Aproveite =)
 
-<img src="/imagens/mosquito.jpg" alt="mosquito"/>
+<img src="/imagens/mosquito.png" alt="mosquito"/>
